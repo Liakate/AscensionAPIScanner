@@ -1,0 +1,38 @@
+## Interface: 30300
+## Title: Ascension API Scanner
+## Notes: Full developer toolkit for Ascension addon authors
+## Author: Bob
+## Version: 1.0
+## SavedVariables: AscensionAPIScannerDB
+
+Core/Baseline.lua
+Core/Scanner.lua
+Core/NamespaceInference.lua
+Core/FrameXML.lua
+Core/Events.lua
+Core/Hooks.lua
+Core/Tree.lua
+Core/Profiler.lua
+Core/Stacks.lua
+Core/Widgets.lua
+Core/REPL.lua
+Core/Performance.lua
+
+SavedVariables.lua
+
+UI/Colors.lua
+UI/Syntax.lua
+UI/MainPanel.lua
+
+UI/Tabs/Tab_API.lua
+UI/Tabs/Tab_Blizzard.lua
+UI/Tabs/Tab_FrameXML.lua
+UI/Tabs/Tab_Events.lua
+UI/Tabs/Tab_EventDB.lua
+UI/Tabs/Tab_Hooks.lua
+UI/Tabs/Tab_Tree.lua
+UI/Tabs/Tab_Profiler.lua
+UI/Tabs/Tab_Stacks.lua
+UI/Tabs/Tab_Widgets.lua
+UI/Tabs/Tab_REPL.lua
+UI/Tabs/Tab_Performance.lua
